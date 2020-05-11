@@ -1,0 +1,13 @@
+{
+	"js/title-links.min.js": [
+		"public/js/frappe/form/controls/link.js",
+		"public/js/frappe/form/controls/dynamic_link.js",
+		"public/js/frappe/form/controls/table_multiselect.js",
+		"public/js/frappe/form/formatter.js",
+		"public/js/frappe/form/save.js",
+		"public/js/frappe/list/base_list.js",
+		"public/js/frappe/list/list_view.js",
+		"public/js/frappe/request.js",
+		"public/js/frappe/link_title.js"
+	]
+}
